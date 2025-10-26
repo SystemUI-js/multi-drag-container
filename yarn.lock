@@ -901,11 +901,12 @@
   dependencies:
     "@sinonjs/commons" "^3.0.1"
 
-"@system-ui-js/multi-drag@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@system-ui-js/multi-drag/-/multi-drag-0.1.0.tgz#1ebbc7bd6d7a7ca2c38cca92b5f23477dbe14256"
-  integrity sha512-8t2uj9BPKdVoUL62aDXuWTHMRzZNEJtU00OxNj6pvOy74Ut9e2qR7KN16IaRyl4y+pzFktbvFs/YIFuQ5Fxwgw==
+"@system-ui-js/multi-drag@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@system-ui-js/multi-drag/-/multi-drag-0.2.1.tgz#42f8115b761d60f935b69d20bf4164d39f44847d"
+  integrity sha512-NUjIPKAwL94jyUnyv0iNtQYOWAo/NX3siIFXs0NhdoZEQNxbbp7tMJB415p8CxkiuWE3escSFmLAcZNReKERTA==
   dependencies:
+    lodash "^4.17.21"
     mathjs "^14.6.0"
 
 "@tybys/wasm-util@^0.10.0":
@@ -2842,6 +2843,11 @@ lodash.merge@4.6.2, lodash.merge@^4.6.2:
   version "4.6.2"
   resolved "https://registry.yarnpkg.com/lodash.merge/-/lodash.merge-4.6.2.tgz#558aa53b43b661e1925a0afdfa36a9a1085fe57a"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
+
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 lru-cache@^10.2.0, lru-cache@^10.4.3:
   version "10.4.3"

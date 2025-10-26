@@ -42,7 +42,7 @@
     "vite-plugin-checker": "^0.6.2"
   },
   "dependencies": {
-    "@system-ui-js/multi-drag": "^0.1.0",
+    "@system-ui-js/multi-drag": "^0.2.1",
     "mathjs": "^14.6.0"
   },
   "publishConfig": {

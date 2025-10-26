@@ -1,5 +1,4 @@
-import { Drag } from "../drag";
-import { Point } from "../utils/mathUtils";
+import { Drag, Point } from '..';
 
 export class DragSelection {
     constructor() {
